@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 class OpenweatherLocation implements LocationProvider {
   late double latitude;
   late double longtitude;
-  String apiKey = 'bd12f78a2c7921edf8ffe39a2de6be7c';
+  String apiKey = '';
   late int status;
 
   @override

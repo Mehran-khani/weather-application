@@ -4,7 +4,7 @@ import 'package:weather_application/weather/weather_provider.dart';
 import 'package:http/http.dart' as http;
 
 class OpenweatherWeather implements WeatherPovider {
-  String apiKey = 'bd12f78a2c7921edf8ffe39a2de6be7c';
+  String apiKey = '';
 
   @override
   Future<Weather>? fetchWeather({required String cityName}) async {
