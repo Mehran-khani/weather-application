@@ -1,6 +1,11 @@
 # weather_application
 
-A new Flutter project.
+A Weahter Flutter app.
+with api integration and Bloc architect.
+you need to config your own api key.
+and config package_config.json file.
+
+i will appreciate it if you give it a star if you find this project useful.❤️
 
 ## Getting Started
 
